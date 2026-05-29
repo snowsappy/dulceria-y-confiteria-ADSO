@@ -1,0 +1,40 @@
+.navBar {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.logo {
+
+    justify-content: center;
+
+
+}
+
+.iconos {
+
+    justify-content: end;
+    gap: 15px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #EA6872;
+
+
+}
+
+.menu a:hover {
+    color: EA858D;
+}
